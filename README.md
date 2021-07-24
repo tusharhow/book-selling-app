@@ -1,16 +1,12 @@
-# book_selling_flutter
+# Books Selling Mobile App 
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/q7gzs2NZ13Q)
 
-## Getting Started
+### Books Selling Online Store
 
-This project is a starting point for a Flutter application.
+A nice clean Books Selling Online Store Mobile App UI.Today I will show you how you can create Books Selling Online Store using flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Books Selling Online Store UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/126867028-1650a204-f8ba-426e-9792-5c628ecf8e6b.png" alt="portfolio" width="600">
